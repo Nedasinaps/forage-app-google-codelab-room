@@ -39,7 +39,6 @@ class PersistenceInstrumentationTests {
     fun setup() {
         launchActivity<MainActivity>()
         onView(withId(R.id.add_forageable_fab)).perform(click())
-
         onView(withId(R.id.name_input)).perform(replaceText("Name"))
         onView(withId(R.id.location_address_input)).perform(replaceText("Address"))
         onView(withId(R.id.notes_input)).perform(replaceText("Notes"))
