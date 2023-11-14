@@ -1,7 +1,7 @@
-Forage - Starter Code
+Forage App
 ==================================
 
-Starter code for the fifth independent project for Android Basics in Kotlin. This project pairs with Unit 5: Data Persistence (Room, Preferences DataStore) of Android Basics in Kotlin
+The fifth independent project for Android Basics in Kotlin. This project pairs with Unit 5: Data Persistence (Room, Preferences DataStore) of Android Basics in Kotlin
 https://developer.android.com/courses/android-basics-kotlin/unit-5
 
 Introduction
