@@ -1,7 +1,7 @@
 Forage App
 ==================================
 
-The fifth independent project for Android Basics in Kotlin. This project pairs with Unit 5: Data Persistence (Room, Preferences DataStore) of Android Basics in Kotlin
+The third independent project for Android Basics in Kotlin. This project pairs with Unit 5: Data Persistence (Room, Preferences DataStore) of Android Basics in Kotlin
 https://developer.android.com/courses/android-basics-kotlin/unit-5
 
 Introduction
